@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\Template lv3"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Resposive Design"
+		},
+		{
+			"path": "..\\SPECIAl_DESIGN-ONE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SPECIAl_DESIGN-ONE"
+	}
+}
